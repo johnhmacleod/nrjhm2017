@@ -1,0 +1,15 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: nrjhm2017
+  host: nrjhm2017a
+  disk_quota: 1024M
+  services:
+  - courserajhm-iotf-service
+  - Weather Company Data-us
+  - dashDB for Analytics-1n
+  - nrjhm2017-cloudantNoSQLDB
+  - Conversation-yt
+  - Visual Recognition-6t
