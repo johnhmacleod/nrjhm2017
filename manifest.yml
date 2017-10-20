@@ -9,6 +9,5 @@ applications:
   services:
   - Weather Company Data-us
   - dashDB for Analytics-1n
-  - nrjhm2017-cloudantNoSQLDB
   - Conversation-yt
-  - Visual Recognition-6t
+  - nrjhm2017-cloudantNoSQLDB
