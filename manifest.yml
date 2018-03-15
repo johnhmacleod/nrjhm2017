@@ -8,6 +8,5 @@ applications:
   disk_quota: 1024M
   services:
   - Weather Company Data-us
-  - dashDB for Analytics-1n
   - Conversation-yt
   - nrjhm2017-cloudantNoSQLDB
