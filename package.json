@@ -21,6 +21,7 @@
 		"node-red-contrib-ibm-watson-iot": "0.2.x",
 		"node-red-dashboard": "2.x",
 		"node-red-contrib-moment": "latest",
+		"node-red-contrib-browser-utils": "latest",
 		"moment-timezone": "latest",
 		"node-red-contrib-watson-machine-learning": "0.0.7"
 	},
