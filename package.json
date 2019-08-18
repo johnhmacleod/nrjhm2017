@@ -22,6 +22,8 @@
 		"node-red-dashboard": "2.x",
 		"node-red-contrib-moment": "latest",
 		"node-red-contrib-browser-utils": "latest",
+		"node-red-contrib-wait-paths" : "latest",
+		"node-red-contrib-ibm-wiotp-device-ops" : "latest",
 		"moment-timezone": "latest",
 		"node-red-contrib-watson-machine-learning": "0.0.7"
 	},
