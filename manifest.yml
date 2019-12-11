@@ -1,6 +1,6 @@
 applications:
 - path: .
-  memory: 768M
+  memory: 896M
   instances: 1
   domain: mybluemix.net
   name: nrjhm2017
